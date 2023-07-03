@@ -1,1 +1,1 @@
-ultralytics 8.1.18 add cmake for building onnxsim on aarch64 (#8395)
+Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
