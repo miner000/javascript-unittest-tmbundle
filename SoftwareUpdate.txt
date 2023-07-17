@@ -1,1 +1,1 @@
-Add Non-Maximum Suppression (NMS) inplace flag (#8368)
+Add PaddlePaddle Docs Integrations Page (#8858)
