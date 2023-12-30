@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Add quantization support to TensorFlow.js converter (#7008)
