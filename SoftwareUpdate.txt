@@ -1,1 +1,1 @@
-Update OpenVINO INT8 export (#7515)
+Allow Annotator PIL.Image inputs (#8397)
