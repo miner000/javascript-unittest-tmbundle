@@ -1,1 +1,1 @@
-ultralytics 8.0.228 add training time argument (#7054)
+ultralytics 8.1.11 expand OpenVINO INT8 ops for improved mAP (#7516)
